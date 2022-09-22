@@ -2,7 +2,7 @@
 <h3 align="center">I am 19 years old Junior Web Developer from Poland. I have junior level knowlage of JavaScript (React and Node), HTML & CSS and I am currently looking for my first job</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470dyiwriguj5jqmoxtkjn0tnpdsxtjbfkqtw7xw94&rid=giphy.gif&ct=g">
-- 🔭 I’m currently working on [User registration system](https://github.com/KacperKubic/User-registration-system)
+- 🔭 I’m currently working on <a href="https://github.com/KacperKubic/User-registration-system">User Registration System</a>
 
 - 🌱 I’m currently learning **React and Node.js**
 
