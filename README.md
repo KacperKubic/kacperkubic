@@ -3,7 +3,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470dyiwriguj5jqmoxtkjn0tnpdsxtjbfkqtw7xw94&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working on <a href="https://github.com/KacperKubic/NotesApp">React, Node, MySQL Notes App</a>
-- 🔭 I recently finished <a href="https://github.com/KacperKubic/ChatApp">React & Node Chat App with Socket.io</a>
+
+- ✈ I recently finished <a href="https://github.com/KacperKubic/chat-app">React & Node Chat App with Socket.io</a>
 
 - 🌱 I’m currently learning **React and Node.js**
 
