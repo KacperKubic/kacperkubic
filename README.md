@@ -3,9 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470dyiwriguj5jqmoxtkjn0tnpdsxtjbfkqtw7xw94&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on <a href="https://github.com/KacperKubic/google-search-clone" >Spotify Clone with React</a>
+- 🔭 I’m currently working on <a href="https://github.com/KacperKubic/wordle-clone" >Wordle Clone</a>
 
-- ✈ I recently finished <a href="https://github.com/KacperKubic/wordle-clone">Google Search Clone with React</a>
+- ✈ I recently finished <a href="https://github.com/KacperKubic/spotify-clone">Spotify Clone with React</a>
 
 - 🌱 I’m currently learning **React and Node.js**
 
